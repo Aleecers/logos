@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="186.286 180 190.908 53.145" width="190.908" height="53.145" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="208" y1="213.715" x2="208" y2="235.429" id="gradient-0" gradientTransform="matrix(0.469747, 0.384035, -0.501808, 0.673444, 208.762015, -6.353903)">
+      <stop offset="0" style="stop-color: rgba(170, 0, 255, 1)"/>
+      <stop offset="1" style="stop-color: rgb(180, 31, 255);"/>
+    </linearGradient>
+    <linearGradient id="gradient-2-3" x1="0" y1="0.447" x2="1" y2="0.447" gradientTransform="matrix(0.700012, -0.605271, 0.602953, 0.772743, -0.119525, 0.47001)" xlink:href="#gradient-2"/>
+    <linearGradient id="gradient-2">
+      <stop offset="0" style="stop-color: rgb(150, 0, 224);"/>
+      <stop offset="1" style="stop-color: rgb(134, 0, 201);"/>
+    </linearGradient>
+    <linearGradient id="gradient-3-0" gradientTransform="matrix(-0.549942, 0.710535, -0.736456, -0.631647, 0.849968, 0.131581)" xlink:href="#gradient-3"/>
+    <linearGradient id="gradient-3">
+      <stop offset="0" style="stop-color: rgb(102, 0, 153);"/>
+      <stop offset="1" style="stop-color: rgb(134, 0, 201);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="265.143" y1="157.715" x2="265.143" y2="179.429" id="gradient-4" gradientTransform="matrix(-0.393665, -0.468566, 0.392038, -0.361373, 265.267966, 376.211252)">
+      <stop offset="0" style="stop-color: rgba(102, 0, 153, 1)"/>
+      <stop offset="1" style="stop-color: rgb(95, 0, 143);"/>
+    </linearGradient>
+    <linearGradient id="gradient-2-4" x1="-0.023" y1="0.478" x2="0.977" y2="0.478" gradientTransform="matrix(0.697682, -0.586951, 0.715615, 0.743306, -0.139719, 0.413544)" xlink:href="#gradient-2"/>
+    <linearGradient id="gradient-3-1" gradientTransform="matrix(-0.474944, 0.60527, -0.7324, -0.636852, 0.79997, 0.157897)" xlink:href="#gradient-3"/>
+    <linearGradient id="gradient-2-2" x1="-0.075" y1="0.474" x2="0.925" y2="0.474" gradientTransform="matrix(0.575016, -0.68422, 0.71149, 0.662598, -0.09413, 0.424406)" xlink:href="#gradient-2"/>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="227.714" y1="152.571" x2="227.714" y2="178.285" id="gradient-1" gradientTransform="matrix(0.476709, 0.374504, -0.31781, 0.44385, 149.886847, 29.497806)">
+      <stop offset="0" style="stop-color: rgb(102, 0, 153);"/>
+      <stop offset="1" style="stop-color: rgb(134, 0, 201);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="240.053" y1="252.571" x2="240.053" y2="293.714" id="gradient-5" gradientTransform="matrix(-0.032692, 0.999466, -2.972213, -0.097219, 1142.024101, -5.084778)">
+      <stop offset="0" style="stop-color: rgb(100, 0, 155);"/>
+      <stop offset="1" style="stop-color: rgb(50, 0, 80);"/>
+    </linearGradient>
+    <style bx:fonts="Marko One">@import url(https://fonts.googleapis.com/css2?family=Marko+One%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <ellipse style="stroke: rgba(0, 0, 0, 0); fill: url(#gradient-0);" cx="193.096" cy="224.941" rx="6.81" ry="6.777"/>
+  <ellipse style="stroke: rgba(0, 0, 0, 0); fill: url(#gradient-2-3);" cx="204.673" cy="212.814" rx="6.81" ry="6.777"/>
+  <ellipse style="fill: url(#gradient-3-0); stroke: rgba(0, 0, 0, 0);" cx="216.251" cy="201.401" rx="6.81" ry="6.777"/>
+  <ellipse style="stroke: rgba(0, 0, 0, 0); fill: url(#gradient-4);" cx="227.147" cy="189.987" rx="6.81" ry="6.777"/>
+  <ellipse style="fill: url(#gradient-2-4); stroke: rgba(0, 0, 0, 0);" cx="216.421" cy="224.941" rx="7.321" ry="8.204"/>
+  <ellipse style="fill: url(#gradient-3-1); stroke: rgba(0, 0, 0, 0);" cx="229.19" cy="211.744" rx="6.81" ry="6.777"/>
+  <ellipse style="fill: url(#gradient-2-2); stroke: rgba(0, 0, 0, 0);" cx="193.777" cy="199.974" rx="6.81" ry="6.777"/>
+  <ellipse style="stroke: rgba(0, 0, 0, 0); fill: url(#gradient-1);" cx="204.843" cy="188.025" rx="7.321" ry="8.025"/>
+  <text style="fill: url(#gradient-5); font-family: &quot;Marko One&quot;; font-size: 31px; white-space: pre;" x="253.142" y="217.714" transform="matrix(0.974597, 0, 0, 1.083333, -0.997867, -16.761881)">Aleecers</text>
+</svg>

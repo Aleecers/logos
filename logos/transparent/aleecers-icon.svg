@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="196.571 152.571 83.429 85.144" width="83.429" height="85.144" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="208" y1="213.715" x2="208" y2="235.429" id="gradient-0" gradientTransform="matrix(0.788313, 0.615276, -0.842116, 1.078948, 234.289618, -145.992587)">
+      <stop offset="0" style="stop-color: rgba(170, 0, 255, 1)"/>
+      <stop offset="1" style="stop-color: rgb(180, 31, 255);"/>
+    </linearGradient>
+    <linearGradient id="gradient-2-3" x1="0" y1="0.447" x2="1" y2="0.447" gradientTransform="matrix(0.700012, -0.605271, 0.602953, 0.772743, -0.119525, 0.47001)" xlink:href="#gradient-2"/>
+    <linearGradient id="gradient-2" bx:pinned="true">
+      <stop offset="0" style="stop-color: rgb(150, 0, 224);"/>
+      <stop offset="1" style="stop-color: rgb(134, 0, 201);"/>
+    </linearGradient>
+    <linearGradient id="gradient-3-0" gradientTransform="matrix(-0.549942, 0.710535, -0.736456, -0.631647, 0.849968, 0.131581)" xlink:href="#gradient-3"/>
+    <linearGradient id="gradient-3" bx:pinned="true">
+      <stop offset="0" style="stop-color: rgb(102, 0, 153);"/>
+      <stop offset="1" style="stop-color: rgb(134, 0, 201);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="265.143" y1="157.715" x2="265.143" y2="179.429" id="gradient-4" gradientTransform="matrix(-0.660635, -0.750707, 0.657904, -0.578968, 329.115938, 466.928763)">
+      <stop offset="0" style="stop-color: rgba(102, 0, 153, 1)"/>
+      <stop offset="1" style="stop-color: rgb(95, 0, 143);"/>
+    </linearGradient>
+    <linearGradient id="gradient-2-4" x1="-0.023" y1="0.478" x2="0.977" y2="0.478" gradientTransform="matrix(0.697682, -0.586951, 0.715615, 0.743306, -0.139719, 0.413544)" xlink:href="#gradient-2"/>
+    <linearGradient id="gradient-3-1" gradientTransform="matrix(-0.474944, 0.60527, -0.7324, -0.636852, 0.79997, 0.157897)" xlink:href="#gradient-3"/>
+    <linearGradient id="gradient-2-2" x1="-0.075" y1="0.474" x2="0.925" y2="0.474" gradientTransform="matrix(0.575016, -0.68422, 0.71149, 0.662598, -0.09413, 0.424406)" xlink:href="#gradient-2"/>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="227.714" y1="152.571" x2="227.714" y2="178.285" id="gradient-1" gradientTransform="matrix(0.799996, 0.600006, -0.533339, 0.711108, 135.487333, -88.553269)">
+      <stop offset="0" style="stop-color: rgb(102, 0, 153);"/>
+      <stop offset="1" style="stop-color: rgb(134, 0, 201);"/>
+    </linearGradient>
+  </defs>
+  <ellipse style="stroke: rgba(0, 0, 0, 0); fill: url(#gradient-0);" cx="208" cy="224.572" rx="11.429" ry="10.857"/>
+  <ellipse style="stroke: rgba(0, 0, 0, 0); fill: url(#gradient-2-3);" cx="227.428" cy="205.143" rx="11.429" ry="10.857"/>
+  <ellipse style="fill: url(#gradient-3-0); stroke: rgba(0, 0, 0, 0);" cx="246.858" cy="186.857" rx="11.429" ry="10.857"/>
+  <ellipse style="stroke: rgba(0, 0, 0, 0); fill: url(#gradient-4);" cx="265.143" cy="168.572" rx="11.429" ry="10.857"/>
+  <ellipse style="fill: url(#gradient-2-4); stroke: rgba(0, 0, 0, 0);" cx="247.143" cy="224.572" rx="12.286" ry="13.143"/>
+  <ellipse style="fill: url(#gradient-3-1); stroke: rgba(0, 0, 0, 0);" cx="268.571" cy="203.429" rx="11.429" ry="10.857"/>
+  <ellipse style="fill: url(#gradient-2-2); stroke: rgba(0, 0, 0, 0);" cx="209.143" cy="184.571" rx="11.429" ry="10.857"/>
+  <ellipse style="stroke: rgba(0, 0, 0, 0); fill: url(#gradient-1);" cx="227.714" cy="165.428" rx="12.286" ry="12.857"/>
+</svg>
